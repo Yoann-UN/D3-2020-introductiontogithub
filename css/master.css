@@ -1,0 +1,33 @@
+.logo {
+text-align: center;
+
+}
+
+
+#section01{
+  margin: 420px ;
+  justify-content: center;
+  align-items: center;
+display: flex;
+}
+
+
+
+
+h1 {
+  font-size:3.5em;
+  margin: 100px;
+
+
+
+}
+
+body{
+background: url(https://cdna.artstation.com/p/assets/images/images/012/910/872/large/clayscence-art-lee2-2.jpg?1537148145) no-repeat top center;
+   background-size: cover;
+ background-attachment: fixed;
+
+ justify-content: center;
+ align-items: center;
+
+}
